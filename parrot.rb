@@ -3,3 +3,5 @@ def parrot
 end
 
 def return_parrot
+  "Squawk"
+end
